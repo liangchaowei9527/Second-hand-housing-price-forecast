@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary generated figures/research artifacts
+reports/figures/tmp_*.png
+reports/figures/tmp_figs/
+reports/figures/tmp_figs2/
+
+# Large raw data artifacts (keep processed data for reproducibility)
+data/raw/*.csv
+data/raw/*.json

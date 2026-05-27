@@ -1,0 +1,13 @@
+{
+  "feature_columns": [
+    "area_sqm",
+    "build_year",
+    "house_age",
+    "floor_total",
+    "area_log",
+    "region",
+    "orientation",
+    "decoration",
+    "floor_category"
+  ]
+}
