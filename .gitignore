@@ -25,3 +25,17 @@ reports/figures/tmp_figs2/
 # Large raw data artifacts (keep processed data for reproducibility)
 data/raw/*.csv
 data/raw/*.json
+!data/raw/dataset.csv
+!data/raw/anjuke_ingested_20260526_190233.csv
+!data/raw/anjuke_ingested_20260526_190240.csv
+!data/raw/anjuke_ingested_20260526_191008.csv
+!data/raw/anjuke_ingested_20260526_191013.csv
+!data/raw/anjuke_ingested_20260526_193006.csv
+!data/raw/anjuke_ingested_20260526_193029.csv
+!data/raw/anjuke_ingested_20260526_190233.json
+!data/raw/anjuke_ingested_20260526_190240.json
+!data/raw/anjuke_ingested_20260526_191008.json
+!data/raw/anjuke_ingested_20260526_191013.json
+!data/raw/anjuke_ingested_20260526_193006.json
+!data/raw/anjuke_ingested_20260526_193029.json
+data/raw/house_price_raw.csv
